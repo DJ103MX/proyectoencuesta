@@ -1,0 +1,30 @@
+body{
+	background-image: url("https://media.giphy.com/media/65Tr7aW4HJYdCHN082/giphy.gif");
+	/*background-image: url('../css/gif/space.gif');*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.btback{
+	width: 30%;
+	background: #F60000;
+	border: none;
+	border-radius: 5px;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 12px;
+}
+
+.container{
+	background: #000000bd;
+    color: white;
+	width: 50%;
+	margin: 50px;
+	margin-left: auto;
+  	margin-right: auto;
+	border: 3px cyan double;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px #55FF00;
+	font-family: arial;
+}

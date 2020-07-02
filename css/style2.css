@@ -1,0 +1,100 @@
+body{
+	background-image: url("https://media.giphy.com/media/l4FGmfnKZRGwtJ4v6/giphy.gif");
+	/*background-image: url('../css/gif/space.gif');*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	margin: 50px;
+}
+
+h2{
+	background: #000000bd;
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	width: 50%;
+	margin: 50px;
+	margin-left: auto;
+  	margin-right: auto;
+	border: 3px cyan double;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px yellow;
+}
+
+p{
+	background: #000000bd;
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	width: 50%;
+	margin: 50px;
+	margin-left: auto;
+  	margin-right: auto;
+	border: 3px cyan double;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px yellow;
+}
+
+label {
+	text-align: center;
+	font-size: 150%;
+	font-family: arial;
+	color: #ffff
+}
+
+form {
+	background: #000000bd;
+	text-align: center;
+	width: 50%;
+	margin: 50px;
+	margin-left: auto;
+  	margin-right: auto;
+	border: 3px cyan double;
+	border-radius: 5px;
+	box-shadow: 6px 6px 6px #55FF00;	
+}
+
+
+.psswrd {
+	background-color: transparent;
+	color: #00E5D7;
+	border-radius: 5px;
+	border: 2px solid;	
+	width: 50%;
+}
+
+.psswrd2 {
+	background-color: transparent;
+	color: #4DFF00;
+	border-radius: 5px;
+	border: 2px solid;	
+	width: 50%;
+}
+
+
+.btns{
+	width: 20%;
+	background: #47D400;
+	border: none;
+	border-radius: 5px;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+
+.btn-link{
+	width: 45%;
+	background: #C30000;
+	border: none;
+	border-radius: 5px;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}

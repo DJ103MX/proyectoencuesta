@@ -1,0 +1,76 @@
+body{
+	background-image: url("https://media.giphy.com/media/ycg1fKpfhQPNGrhzzs/giphy.gif");
+	/*background-image: url('../css/gif/space.gif');*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	margin: 50px;
+}
+
+h2{
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	margin: 50px;
+}
+
+h3{
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	margin: 50px;
+}
+
+i{
+	color: #ffff;
+	text-align: center;
+	font-family: arial;
+	margin: 30px;
+}
+
+b{
+	color: #8AF600;
+	text-align: center;
+	font-family: arial;
+}
+
+p{
+	background: #000000bd;
+	color: #ffff;
+	text-align: center;
+	font-family: monospace;
+	width: 790px;
+	margin: 50px;
+	margin-left: auto;
+  	margin-right: auto;
+	border: 3px #66ff66 double;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px #00ff66;
+}
+
+.btnpss{
+	width: 30%;
+	background: #47D400;
+	border: none;
+	border-radius: 5px;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 12px;
+}
+
+.btnclose{
+	width: 30%;
+	background: #F60000;
+	border: none;
+	border-radius: 5px;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 12px;
+}
