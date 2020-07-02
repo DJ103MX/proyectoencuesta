@@ -4,10 +4,10 @@ class encuestas {
 
  private $db_handle;
  
- private $host = 'localhost';
- private $database = 'demo';
- private $userid = 'root'; 
- private $password = '';
+private $host = 'q57yawiwmnaw13d2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+private $database = 'co8wp6olsaxilld3';
+private $userid = 'b89j1waxhxwrcsi6'; 
+private $password = 'ng6z8k0fqh0k8j3p';
 
 
     public function __construct() {
